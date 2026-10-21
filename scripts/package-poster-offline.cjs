@@ -1,0 +1,15 @@
+const fs = require('node:fs')
+const path = require('node:path')
+const { execFileSync } = require('node:child_process')
+const root = path.resolve(__dirname, '..')
+execFileSync(process.execPath, [path.join(root, 'node_modules/vite/bin/vite.js'), 'build', '--config', 'poster.offline.config.js'], { cwd: root, stdio: 'inherit' })
+const built = path.join(root, 'tmp/poster-offline-build')
+const jsFile = fs.readdirSync(built).find(name => /\.js$/.test(name))
+const css = fs.readFileSync(path.join(built, 'poster.css'), 'utf8')
+const js = fs.readFileSync(path.join(built, jsFile), 'utf8').replace(/<\/script/gi, '<\\/script')
+const html = `<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="theme-color" content="#004638"><title>CI³ Lab | Research Poster</title><style>${css}</style></head><body><div id="app"></div><script>${js}</script></body></html>`
+const output = path.join(root, 'exports/CI3-Lab-Poster-Offline.html')
+fs.mkdirSync(path.dirname(output), { recursive: true })
+fs.writeFileSync(output, html)
+console.log(`Offline poster saved: ${output}`)

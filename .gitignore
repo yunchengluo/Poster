@@ -1,0 +1,8 @@
+node_modules/
+dist/
+tmp/
+.DS_Store
+exports/layout-report.json
+exports/font-report.json
+exports/poster-print-check.png
+exports/preview-ui.png

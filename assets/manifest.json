@@ -1,0 +1,122 @@
+[
+  {
+    "path": "assets/logos/hku-logo.png",
+    "bytes": 153913,
+    "sha256": "6c56b971e3e09e6d03507d931e84df5a3c04957360ec5c72af99a0b8981f3b5e"
+  },
+  {
+    "path": "assets/logos/ci3-lab-logo.png",
+    "bytes": 97027,
+    "sha256": "73aefb0cd7ff1836e1c863d60c36b25303e75388e7c954c9cac51fd91f20919e"
+  },
+  {
+    "path": "assets/awards/geneva-gold-medal-2024.jpeg",
+    "bytes": 322476,
+    "sha256": "5295a2e04b08f1340b1892d60298989c08012151ce6f1fa62872a0f9cb1112ca"
+  },
+  {
+    "path": "assets/awards/huaxia-construction-science-technology.jpeg",
+    "bytes": 43335,
+    "sha256": "84c9008c415ba4aaabc1891b2a6b5672566db16e423400c74c9acedfc53fff9b"
+  },
+  {
+    "path": "assets/awards/best-paper-award-01.jpeg",
+    "bytes": 419926,
+    "sha256": "207737cd843d54419e38c4053d78d95ef5b77ba395deb061ecf9e2c57c386ff3"
+  },
+  {
+    "path": "assets/awards/best-paper-award-02.jpeg",
+    "bytes": 315375,
+    "sha256": "bc84970f2c2675348e94a22d80cf16842c04fb38ea0c70c39464fc0cb2650ea4"
+  },
+  {
+    "path": "assets/awards/wbc-best-paper-2025.png",
+    "bytes": 3054569,
+    "sha256": "dab3498488610d4b37b8d56c427b8c0842f09f18cdf9363569e87d8230adfa8d"
+  },
+  {
+    "path": "assets/awards/iccrem-best-paper-2024.jpeg",
+    "bytes": 438810,
+    "sha256": "9cfe16de7794f089b9b8a73ea9e36bf0c0867ac663d22e511f6e4a6bebc85a63"
+  },
+  {
+    "path": "assets/awards/icls-best-paper-2025.jpeg",
+    "bytes": 350436,
+    "sha256": "e5e9bd71620f77a25712d11781f599196dcab9563ea703fcc851a620bc78a71f"
+  },
+  {
+    "path": "assets/awards/best-innovation-and-impact.jpeg",
+    "bytes": 207881,
+    "sha256": "6ad5465e34752b8666930458cb8addbf7a1d1b86e5a10d916778d6ce944006ec"
+  },
+  {
+    "path": "assets/awards/best-conference-paper-second-prize.jpeg",
+    "bytes": 279275,
+    "sha256": "6f9710646dd640dfefacafb36888bf2a6a3a2260afa1c0aa7ff604d9d356081e"
+  },
+  {
+    "path": "assets/awards/best-presentation-award.jpeg",
+    "bytes": 205525,
+    "sha256": "7839920ee5d0b69054e470be6e7f27545d520cfad1f84eed9f413d274ed1b871"
+  },
+  {
+    "path": "assets/awards/cic-construction-innovation-2022.jpeg",
+    "bytes": 342024,
+    "sha256": "8e490291d9ada66c839ff7cd42868748b41d4ebdba9a9f93aa18341f197d883a"
+  },
+  {
+    "path": "assets/research/collaborative-robotics.jpeg",
+    "bytes": 221599,
+    "sha256": "6bea73e8b6f2c8edde9489729b9b6ae883ec98511b6af71bd13d9bf7ac740f23"
+  },
+  {
+    "path": "assets/research/collaborative-scheduling.jpg",
+    "bytes": 203397,
+    "sha256": "e59538abcfa9ec45896ad16e443006e923e50cd3e1a490e25bee1d437edf6bf8"
+  },
+  {
+    "path": "assets/research/distributed-collaboration.png",
+    "bytes": 1091117,
+    "sha256": "f7e526ad99cf4769863b89f7ad8e51f56fd8afaa19621d010be82c7013f5066a"
+  },
+  {
+    "path": "assets/research/knowledge-collaboration.png",
+    "bytes": 507005,
+    "sha256": "740805e59eab79ab15c61352357b427867bb44192b83f8aaa8d089416e752683"
+  },
+  {
+    "path": "assets/impacts/intelligent-design.png",
+    "bytes": 1122765,
+    "sha256": "16aa189aa6bf7f75ca5642a6b64e967608febb1a253df4306d3bc78a1a3ca89b"
+  },
+  {
+    "path": "assets/impacts/intelligent-manufacturing.png",
+    "bytes": 7386348,
+    "sha256": "205a27e88eadbecd7293d959d8fd20316167ea691319d275e925922c72b72726"
+  },
+  {
+    "path": "assets/impacts/hypa-field-deployment.jpg",
+    "bytes": 40570880,
+    "sha256": "6613299a8e93029d188bda9d5f32eefb00778ec91b9e2fffb465f5897b51a9da"
+  },
+  {
+    "path": "assets/impacts/hypa-experimental-platform.jpg",
+    "bytes": 230417,
+    "sha256": "af31d75eafa48ef21d1c75a9007f91fa23139246ed2b60dc43a88a05637e667a"
+  },
+  {
+    "path": "assets/impacts/suspended-robotic-arm.png",
+    "bytes": 831713,
+    "sha256": "0fd8e9369480ed6041cf97f01269f82a4e102b8239d4c2eafffd0528b5a530a7"
+  },
+  {
+    "path": "assets/impacts/operation-maintenance-framework.png",
+    "bytes": 249164,
+    "sha256": "1da31b5447b54599819f4720869fa05c8b3935ed3156ac6a10c3812c4ad92d1d"
+  },
+  {
+    "path": "assets/impacts/regional-policy-simulation.png",
+    "bytes": 4398991,
+    "sha256": "72e7697811fb679d643f0e59bef8fc0b94cf40f6fcb0664a2a317e0341c0d1cb"
+  }
+]
