@@ -1,0 +1,10 @@
+node_modules/
+dist/
+output/
+tmp/
+exports/
+.DS_Store
+*.pdf
+*.docx
+*.pptx
+*.zip

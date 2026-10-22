@@ -1,0 +1,200 @@
+[
+  {
+    "file": "assets/hku-logo-cropped.png",
+    "source": "修改/hku-logo-cropped.png",
+    "bytes": 153913,
+    "sha256": "6c56b971e3e09e6d03507d931e84df5a3c04957360ec5c72af99a0b8981f3b5e"
+  },
+  {
+    "file": "assets/ci3lab-logo-green.png",
+    "source": "修改/ci3lab-logo-green.png",
+    "bytes": 97027,
+    "sha256": "73aefb0cd7ff1836e1c863d60c36b25303e75388e7c954c9cac51fd91f20919e"
+  },
+  {
+    "file": "assets/image_06.png",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_06.png",
+    "bytes": 16728,
+    "sha256": "582bfa656fda2b587e33d9280aa1e7533c27de895ab87c9dafed67bcd278394e"
+  },
+  {
+    "file": "assets/image_13.jpeg",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_13.jpeg",
+    "bytes": 322476,
+    "sha256": "5295a2e04b08f1340b1892d60298989c08012151ce6f1fa62872a0f9cb1112ca"
+  },
+  {
+    "file": "assets/image_14.jpeg",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_14.jpeg",
+    "bytes": 43335,
+    "sha256": "84c9008c415ba4aaabc1891b2a6b5672566db16e423400c74c9acedfc53fff9b"
+  },
+  {
+    "file": "assets/image_15.jpeg",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_15.jpeg",
+    "bytes": 419926,
+    "sha256": "207737cd843d54419e38c4053d78d95ef5b77ba395deb061ecf9e2c57c386ff3"
+  },
+  {
+    "file": "assets/image_16.jpeg",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_16.jpeg",
+    "bytes": 315375,
+    "sha256": "bc84970f2c2675348e94a22d80cf16842c04fb38ea0c70c39464fc0cb2650ea4"
+  },
+  {
+    "file": "assets/image_07.png",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_07.png",
+    "bytes": 3054569,
+    "sha256": "dab3498488610d4b37b8d56c427b8c0842f09f18cdf9363569e87d8230adfa8d"
+  },
+  {
+    "file": "assets/image_08.jpeg",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_08.jpeg",
+    "bytes": 438810,
+    "sha256": "9cfe16de7794f089b9b8a73ea9e36bf0c0867ac663d22e511f6e4a6bebc85a63"
+  },
+  {
+    "file": "assets/image_09.jpeg",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_09.jpeg",
+    "bytes": 350436,
+    "sha256": "e5e9bd71620f77a25712d11781f599196dcab9563ea703fcc851a620bc78a71f"
+  },
+  {
+    "file": "assets/image_10.jpeg",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_10.jpeg",
+    "bytes": 207881,
+    "sha256": "6ad5465e34752b8666930458cb8addbf7a1d1b86e5a10d916778d6ce944006ec"
+  },
+  {
+    "file": "assets/image_11.jpeg",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_11.jpeg",
+    "bytes": 279275,
+    "sha256": "6f9710646dd640dfefacafb36888bf2a6a3a2260afa1c0aa7ff604d9d356081e"
+  },
+  {
+    "file": "assets/image_12.jpeg",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_12.jpeg",
+    "bytes": 205525,
+    "sha256": "7839920ee5d0b69054e470be6e7f27545d520cfad1f84eed9f413d274ed1b871"
+  },
+  {
+    "file": "assets/image_17.jpeg",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_17.jpeg",
+    "bytes": 342024,
+    "sha256": "8e490291d9ada66c839ff7cd42868748b41d4ebdba9a9f93aa18341f197d883a"
+  },
+  {
+    "file": "assets/图片 1.png",
+    "source": "修改/图片 1.png",
+    "bytes": 154434,
+    "sha256": "8488e911aa3af8235656d8202b5ed4255ab7ef447a833669704fafd9137596a6"
+  },
+  {
+    "file": "assets/image_26.jpeg",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_26.jpeg",
+    "bytes": 221599,
+    "sha256": "6bea73e8b6f2c8edde9489729b9b6ae883ec98511b6af71bd13d9bf7ac740f23"
+  },
+  {
+    "file": "assets/image_31.png",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_31.png",
+    "bytes": 207522,
+    "sha256": "fde981512391efba4b025b49eef945da2527e8b0d9f3232858858beeda421623"
+  },
+  {
+    "file": "assets/image_32.png",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_32.png",
+    "bytes": 931784,
+    "sha256": "fac4f979cba3f8f1dc469701cebc41d392f744da735ca0c60c6dd7c2282de3d1"
+  },
+  {
+    "file": "assets/image_01.png",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_01.png",
+    "bytes": 561644,
+    "sha256": "898e7c06798644647c9193a54cf81bdccb4324293a71493285a51a31d95e9192"
+  },
+  {
+    "file": "assets/图片 2.png",
+    "source": "修改/图片 2.png",
+    "bytes": 94855,
+    "sha256": "8b0f1f567099209038abe0db2699eae8ff629c97bf46657052c8489f361057ec"
+  },
+  {
+    "file": "assets/图片 3.png",
+    "source": "修改/图片 3.png",
+    "bytes": 566678,
+    "sha256": "db56dd49816e33b06f420fc302ccff2cd9c93298a2522225102583e6b25375d6"
+  },
+  {
+    "file": "assets/image_22.png",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_22.png",
+    "bytes": 5187866,
+    "sha256": "dd3278627a5b671b238773f98b63e7197b03cd192a1010431850266b300a7339"
+  },
+  {
+    "file": "assets/image_20.png",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_20.png",
+    "bytes": 1474606,
+    "sha256": "49ccb3531002f7c660b8077ad82205d7c001ec24265db183375adf4761fb9f51"
+  },
+  {
+    "file": "assets/image_23.png",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_23.png",
+    "bytes": 831713,
+    "sha256": "0fd8e9369480ed6041cf97f01269f82a4e102b8239d4c2eafffd0528b5a530a7"
+  },
+  {
+    "file": "assets/image_24.png",
+    "source": "信息/提取素材/三折页-框架内容填写0419/image_24.png",
+    "bytes": 249164,
+    "sha256": "1da31b5447b54599819f4720869fa05c8b3935ed3156ac6a10c3812c4ad92d1d"
+  },
+  {
+    "file": "assets/微信图片_20260618175921_10_82.png",
+    "source": "修改/微信图片_20260618175921_10_82.png",
+    "bytes": 4398991,
+    "sha256": "72e7697811fb679d643f0e59bef8fc0b94cf40f6fcb0664a2a317e0341c0d1cb"
+  },
+  {
+    "file": "assets/调度协同.jpg",
+    "source": "20261001/调度协同.jpg",
+    "bytes": 203397,
+    "sha256": "e59538abcfa9ec45896ad16e443006e923e50cd3e1a490e25bee1d437edf6bf8"
+  },
+  {
+    "file": "assets/分布式协作-裁切.png",
+    "source": "20261001/分布式协作-裁切.png",
+    "bytes": 1091117,
+    "sha256": "f7e526ad99cf4769863b89f7ad8e51f56fd8afaa19621d010be82c7013f5066a"
+  },
+  {
+    "file": "assets/智能设计.png",
+    "source": "20261001/智能设计.png",
+    "bytes": 1122765,
+    "sha256": "16aa189aa6bf7f75ca5642a6b64e967608febb1a253df4306d3bc78a1a3ca89b"
+  },
+  {
+    "file": "assets/智能制造.png",
+    "source": "20261001/智能制造.png",
+    "bytes": 7386348,
+    "sha256": "205a27e88eadbecd7293d959d8fd20316167ea691319d275e925922c72b72726"
+  },
+  {
+    "file": "assets/知识协同.png",
+    "source": "20261005/知识协同.png",
+    "bytes": 507005,
+    "sha256": "740805e59eab79ab15c61352357b427867bb44192b83f8aaa8d089416e752683"
+  },
+  {
+    "file": "assets/3.jpg",
+    "source": "20261012/3.jpg",
+    "bytes": 40570880,
+    "sha256": "6613299a8e93029d188bda9d5f32eefb00778ec91b9e2fffb465f5897b51a9da"
+  },
+  {
+    "file": "assets/2.jpg",
+    "source": "20261012/2.jpg",
+    "bytes": 230417,
+    "sha256": "af31d75eafa48ef21d1c75a9007f91fa23139246ed2b60dc43a88a05637e667a"
+  }
+]
